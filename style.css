@@ -1,0 +1,61 @@
+body {
+}
+
+p {
+  font-size: 16px;
+  text-align: left;
+  font-style: normal;
+  font-style: oblique;
+}
+ol,
+li {
+  list-style-position: inside;
+  text-align: left;
+}
+p {
+  margin: auto;
+}
+body {
+  font-style: oblique;
+  font-size: medium;
+}
+h1 {
+  font-style: bold;
+  color: aliceblue;
+}
+h2 {
+  font-size: 20px;
+  font-style: normal;
+  color: aliceblue;
+}
+
+h4 {
+  font-size: 18px;
+  font-style: normal;
+  color: aliceblue;
+}
+
+h5 {
+  font-size: 18px;
+  font-style: normal;
+  color: aliceblue;
+}
+
+h1 {
+  color: aliceblue;
+}
+h3 {
+  color: aliceblue;
+}
+
+.hang {
+  padding: 40px;
+  border-radius: 20px;
+  margin: 10px;
+  border: 2px black solid;
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Desktop-gaming-backgrounds-1080p-dosh-tosh.jpg");
+}
+img {
+  border-radius: 20px;
+  border: 1px;
+}
